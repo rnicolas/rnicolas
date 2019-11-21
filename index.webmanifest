@@ -2,8 +2,8 @@
   "name": "Roger N. Alegret",
   "short_name": "Roger N. Alegret",
   "lang": "en-us",
-  "theme_color": "#4caf50",
-  "background_color": "#4caf50",
+  "theme_color": "#EF525B",
+  "background_color": "#EF525B",
   "icons": [{
     "src": "img/icon-192.png",
     "sizes": "192x192",
