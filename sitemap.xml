@@ -28,7 +28,17 @@
   </url>
   
   <url>
-    <loc>/tags/energy-harvesting-waste-heat-wsn-iiot-routing-protocols-mesh-networks-reinforcement-learning/</loc>
+    <loc>/tags/energy-harvesting/</loc>
+    <lastmod>2019-09-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/iiot/</loc>
+    <lastmod>2019-09-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/mesh-networks/</loc>
     <lastmod>2019-09-23T00:00:00+00:00</lastmod>
   </url>
   
@@ -48,12 +58,32 @@
   </url>
   
   <url>
+    <loc>/tags/reinforcement-learning/</loc>
+    <lastmod>2019-09-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/</loc>
     <lastmod>2019-09-23T00:00:00+00:00</lastmod>
   </url>
   
   <url>
+    <loc>/tags/routing-protocols/</loc>
+    <lastmod>2019-09-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/tags/</loc>
+    <lastmod>2019-09-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/waste-heat/</loc>
+    <lastmod>2019-09-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/wsn/</loc>
     <lastmod>2019-09-23T00:00:00+00:00</lastmod>
   </url>
   

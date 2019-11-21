@@ -13,10 +13,58 @@
     </image>
     
     <item>
-      <title>Energy Harvesting, Waste Heat, WSN, IIoT, Routing Protocols, Mesh Networks, Reinforcement Learning</title>
-      <link>/tags/energy-harvesting-waste-heat-wsn-iiot-routing-protocols-mesh-networks-reinforcement-learning/</link>
+      <title>Energy Harvesting</title>
+      <link>/tags/energy-harvesting/</link>
       <pubDate>Mon, 23 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>/tags/energy-harvesting-waste-heat-wsn-iiot-routing-protocols-mesh-networks-reinforcement-learning/</guid>
+      <guid>/tags/energy-harvesting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>IIoT</title>
+      <link>/tags/iiot/</link>
+      <pubDate>Mon, 23 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/tags/iiot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mesh Networks</title>
+      <link>/tags/mesh-networks/</link>
+      <pubDate>Mon, 23 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/tags/mesh-networks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reinforcement Learning</title>
+      <link>/tags/reinforcement-learning/</link>
+      <pubDate>Mon, 23 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/tags/reinforcement-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Routing Protocols</title>
+      <link>/tags/routing-protocols/</link>
+      <pubDate>Mon, 23 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/tags/routing-protocols/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Waste Heat</title>
+      <link>/tags/waste-heat/</link>
+      <pubDate>Mon, 23 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/tags/waste-heat/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>WSN</title>
+      <link>/tags/wsn/</link>
+      <pubDate>Mon, 23 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/tags/wsn/</guid>
       <description></description>
     </item>
     
