@@ -5,7 +5,7 @@
     <link>/tags/</link>
       <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2019</copyright><lastBuildDate>Mon, 23 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2020</copyright><lastBuildDate>Fri, 18 Oct 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Tags</title>
@@ -13,10 +13,98 @@
     </image>
     
     <item>
+      <title>Batteries</title>
+      <link>/tags/batteries/</link>
+      <pubDate>Fri, 18 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/tags/batteries/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Energy Harvesting</title>
       <link>/tags/energy-harvesting/</link>
-      <pubDate>Mon, 23 Sep 2019 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 18 Oct 2019 00:00:00 +0000</pubDate>
       <guid>/tags/energy-harvesting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Energy Manager</title>
+      <link>/tags/energy-manager/</link>
+      <pubDate>Fri, 18 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/tags/energy-manager/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Industries</title>
+      <link>/tags/industries/</link>
+      <pubDate>Fri, 18 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/tags/industries/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Internet of Things</title>
+      <link>/tags/internet-of-things/</link>
+      <pubDate>Fri, 18 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/tags/internet-of-things/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mesh Networks</title>
+      <link>/tags/mesh-networks/</link>
+      <pubDate>Fri, 18 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/tags/mesh-networks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Protocols</title>
+      <link>/tags/protocols/</link>
+      <pubDate>Fri, 18 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/tags/protocols/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Routing Protocols</title>
+      <link>/tags/routing-protocols/</link>
+      <pubDate>Fri, 18 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/tags/routing-protocols/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sensors</title>
+      <link>/tags/sensors/</link>
+      <pubDate>Fri, 18 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/tags/sensors/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Waste Heat</title>
+      <link>/tags/waste-heat/</link>
+      <pubDate>Fri, 18 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/tags/waste-heat/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wireless Communication</title>
+      <link>/tags/wireless-communication/</link>
+      <pubDate>Fri, 18 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/tags/wireless-communication/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wireless Sensor Networks</title>
+      <link>/tags/wireless-sensor-networks/</link>
+      <pubDate>Fri, 18 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/tags/wireless-sensor-networks/</guid>
       <description></description>
     </item>
     
@@ -29,34 +117,10 @@
     </item>
     
     <item>
-      <title>Mesh Networks</title>
-      <link>/tags/mesh-networks/</link>
-      <pubDate>Mon, 23 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>/tags/mesh-networks/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Reinforcement Learning</title>
       <link>/tags/reinforcement-learning/</link>
       <pubDate>Mon, 23 Sep 2019 00:00:00 +0000</pubDate>
       <guid>/tags/reinforcement-learning/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Routing Protocols</title>
-      <link>/tags/routing-protocols/</link>
-      <pubDate>Mon, 23 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>/tags/routing-protocols/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Waste Heat</title>
-      <link>/tags/waste-heat/</link>
-      <pubDate>Mon, 23 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>/tags/waste-heat/</guid>
       <description></description>
     </item>
     

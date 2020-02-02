@@ -5,35 +5,37 @@
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2019</copyright><lastBuildDate>Mon, 23 Sep 2019 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>/img/icon-192.png</url>
-      <title>Authors</title>
-      <link>/authors/</link>
-    </image>
-    
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2020</copyright><lastBuildDate>Fri, 18 Oct 2019 00:00:00 +0000</lastBuildDate>
     <item>
       <title></title>
       <link>/authors/admin/</link>
-      <pubDate>Mon, 23 Sep 2019 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 18 Oct 2019 00:00:00 +0000</pubDate>
       <guid>/authors/admin/</guid>
       <description>&lt;p&gt;Cinema, basketball, technology and pizza, the order doesn&amp;rsquo;t matter. FSF Member. Currently an Industrial PhD Student in Microelectronics at Alternative Energy Innovations SL and UAB.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>C. Ferrer</title>
-      <link>/authors/c.-ferrer/</link>
-      <pubDate>Mon, 23 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/c.-ferrer/</guid>
+      <title>Carles Ferrer</title>
+      <link>/authors/carles-ferrer/</link>
+      <pubDate>Fri, 18 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/carles-ferrer/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>R. Aragonés</title>
-      <link>/authors/r.-aragones/</link>
-      <pubDate>Mon, 23 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/r.-aragones/</guid>
+      <title>Joan Oliver</title>
+      <link>/authors/joan-oliver/</link>
+      <pubDate>Fri, 18 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/joan-oliver/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Raül Aragonés</title>
+      <link>/authors/raul-aragones/</link>
+      <pubDate>Fri, 18 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/raul-aragones/</guid>
       <description></description>
     </item>
     
